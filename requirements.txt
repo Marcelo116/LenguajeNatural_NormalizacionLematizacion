@@ -2,5 +2,9 @@
 spacy
 pandas
 nltk
+gensim
+scikit-learn
+numpy
+matplotlib
 jupyter
 ipykernel
